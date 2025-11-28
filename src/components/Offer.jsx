@@ -55,7 +55,7 @@ export default function Offer() {
                                     <div className="inline-block bg-natal-green/10 px-8 py-6 rounded-2xl transform hover:scale-105 transition-transform duration-300">
                                         <p className="text-sm text-gray-600 mb-2">Apenas</p>
                                         <p className="text-5xl md:text-6xl font-black text-natal-green">
-                                            R$ 21,90
+                                            R$ 16,90
                                         </p>
                                         <p className="text-sm text-gray-600 mt-2">
                                             ou 3x de R$ 7,97 no cartão

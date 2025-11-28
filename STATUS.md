@@ -39,7 +39,7 @@ export default {
 6. ✅ **ProductPresentation** - Apresentação completa do curso
 7. ✅ **Bonuses** - 5 bônus + bônus secreto VIP (R$ 195)
 8. ✅ **SocialProof** - 3 depoimentos autênticos
-9. ✅ **Offer** - Oferta irresistível (R$ 21,90)
+9. ✅ **Offer** - Oferta irresistível (R$ 16,90)
 10. ✅ **Guarantee** - Garantia de 7 dias
 11. ✅ **FAQ** - 6 perguntas com acordeon
 12. ✅ **FinalCTA** - Countdown completo (dias/horas/min/seg)
@@ -81,7 +81,7 @@ export default {
 ✅ **Urgência** - Countdowns + mensagens de escassez
 ✅ **Prova Social** - Depoimentos com resultados (R$ 1.560 - R$ 2.340)
 ✅ **Garantia** - 7 dias sem burocracia
-✅ **Contraste** - De R$ 222,00 por R$ 21,90 (90% OFF)
+✅ **Contraste** - De R$ 222,00 por R$ 16,90 (90% OFF)
 ✅ **Bônus** - R$ 195 em valor agregado grátis
 ✅ **ROI** - "Recupera vendendo 1 chocotone"
 
@@ -140,7 +140,7 @@ A landing page deve estar carregando perfeitamente com:
 - **5 Bônus** + 1 secreto
 - **6 Perguntas** no FAQ
 - **2 Countdowns** funcionais
-- **R$ 21,90** investimento irresistível
+- **R$ 16,90** investimento irresistível
 - **R$ 1.000+** potencial de lucro prometido
 
 ---

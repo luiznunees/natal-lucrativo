@@ -251,14 +251,14 @@ Mesmo formato em todos os resultados:
 
 ```
 De R$ 222,00 por apenas
-R$ 21,90
+R$ 16,90
 ou 3x de R$ 7,97 sem juros
 
 💡 Você recupera o investimento vendendo APENAS 1 chocotone!
 ```
 
 **Por que funciona:**
-- Contraste de preço (R$ 222 → R$ 21,90)
+- Contraste de preço (R$ 222 → R$ 16,90)
 - Parcelamento acessível
 - ROI imediato (1 chocotone)
 
@@ -321,7 +321,7 @@ RESULTADO PERSONALIZADO
   ↓
 Depoimento Juliana
   ↓
-Oferta R$ 21,90
+Oferta R$ 16,90
   ↓
 CTA → /landing
 ```

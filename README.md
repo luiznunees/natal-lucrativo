@@ -68,7 +68,7 @@ A landing page foi desenvolvida com abordagem mobile-first e é totalmente respo
 ✅ Urgência (countdown e escassez)
 ✅ Prova Social (depoimentos reais)
 ✅ Garantia Incondicional (7 dias)
-✅ Contraste de Preços (de R$ 222 por R$ 21,90)
+✅ Contraste de Preços (de R$ 222 por R$ 16,90)
 ✅ Bônus Agregados (R$ 195 em valor)
 ✅ Demonstração de ROI (recupera vendendo 1 chocotone)
 
@@ -97,7 +97,7 @@ src/
 
 ## 💰 Informações do Produto
 
-- **Preço:** R$ 21,90 (de R$ 222,00)
+- **Preço:** R$ 16,90 (de R$ 222,00)
 - **Parcelamento:** 12x de R$ 2,14
 - **Garantia:** 7 dias incondicional
 - **Acesso:** Vitalício

@@ -329,7 +329,7 @@ SEM PERGUNTAS. SEM ENROLAÇÃO.
 **DESIGN:**
 ```
 ┌────────────────────────────────┐
-│ R$ 21,90  [GARANTIR VAGA] 🔒  │
+│ R$ 16,90  [GARANTIR VAGA] 🔒  │
 └────────────────────────────────┘
 ```
 
@@ -423,7 +423,7 @@ Esta pode ser a ÚLTIMA VEZ que vê esta oferta.
 🎁 ESPERA!
 
 Antes de sair, pegue este desconto:
-R$ 21,90 → R$ 17,90
+R$ 16,90 → R$ 17,90
 
 Válido por 10 minutos!
 [PEGAR DESCONTO AGORA]

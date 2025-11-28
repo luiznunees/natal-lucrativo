@@ -461,7 +461,7 @@ export default function Quiz() {
                                 <div className="inline-block bg-natal-red/10 px-4 py-2 rounded-full mb-2">
                                     <p className="text-sm text-gray-600">De R$ 222,00 por apenas</p>
                                 </div>
-                                <p className="text-5xl font-black text-natal-green mb-2">R$ 21,90</p>
+                                <p className="text-5xl font-black text-natal-green mb-2">R$ 16,90</p>
                                 <p className="text-sm text-gray-600">ou 3x de R$ 7,97 sem juros</p>
                             </div>
                             <div className="bg-natal-gold/20 border-2 border-natal-gold rounded-xl p-4 mb-6">

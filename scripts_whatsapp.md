@@ -12,7 +12,7 @@ chocotones neste Natal?
 Criei um método simples para donas de casa como 
 a gente fazer e vender chocotones incríveis 🎄
 
-Quer dar uma olhada? É só R$ 21,90 e você 
+Quer dar uma olhada? É só R$ 16,90 e você 
 recupera vendendo 1 chocotone só!
 
 [LINK]
@@ -32,7 +32,7 @@ EXTRAS neste Natal fazendo chocotones em casa?
 
 Mesmo sem nunca ter feito antes!
 
-É sério, por apenas R$ 21,90 você aprende TUDO:
+É sério, por apenas R$ 16,90 você aprende TUDO:
 ✅ Receitas passo a passo
 ✅ Como vender rápido
 ✅ Calculadora de lucro
@@ -51,7 +51,7 @@ R$ 20-40 por CADA chocotone que vender 💰
 
 Eu mesma não acreditava até ver os resultados...
 
-Por R$ 21,90 você tem acesso a:
+Por R$ 16,90 você tem acesso a:
 🎄 5 receitas irresistíveis
 🎄 Scripts de venda prontos
 🎄 Grupo VIP de suporte
@@ -131,7 +131,7 @@ Claro! Mas te aviso: o Natal está chegando! 🎄
 
 Quem começar AGORA consegue fazer mais vendas.
 
-E pensa comigo: são só R$ 21,90 que você 
+E pensa comigo: são só R$ 16,90 que você 
 recupera na primeira venda.
 
 Qual o seu maior medo? Posso te ajudar a decidir! 😊
@@ -157,7 +157,7 @@ Aprenda a fazer e vender chocotones e lucre
 R$ 500-1000 neste Natal!
 
 Receitas + Scripts de Venda + Grupo VIP
-Tudo por R$ 21,90!
+Tudo por R$ 16,90!
 
 Me chama no PV! 💚
 ```
@@ -196,7 +196,7 @@ Meninas, desculpa a propaganda mas é coisa BOA!
 Quem aqui quer ganhar uma renda extra neste Natal?
 
 Aprendi a fazer chocotone pra vender e tô 
-compartilhando o método por R$ 21,90!
+compartilhando o método por R$ 16,90!
 
 É sério, dá pra lucrar R$ 500+ fácil!
 
@@ -234,7 +234,7 @@ Então, o Natal Lucrativo é um pacote COMPLETO:
 🎄 Grupo VIP no WhatsApp com suporte
 🎄 Tudo passo a passo, feito pra iniciante
 
-Por R$ 21,90 você tem acesso VITALÍCIO a tudo!
+Por R$ 16,90 você tem acesso VITALÍCIO a tudo!
 
 E o melhor: tem garantia de 7 dias.
 

@@ -51,7 +51,7 @@ export default function LastChance() {
                             <Flame className="w-10 h-10 mx-auto mb-3" />
                             <h3 className="font-black text-lg mb-2">Preço Promocional</h3>
                             <p className="text-sm text-white/90">
-                                R$ 21,90 é TEMPORÁRIO. Logo volta para o preço normal de R$ 97,00.
+                                R$ 16,90 é TEMPORÁRIO. Logo volta para o preço normal de R$ 97,00.
                             </p>
                         </div>
                     </div>

@@ -92,7 +92,7 @@ export default function FinalCTA() {
                                     className="text-xl md:text-2xl px-12 py-6 mb-6"
                                     showLock
                                 >
-                                    GARANTIR MINHA VAGA AGORA - R$ 21,90
+                                    GARANTIR MINHA VAGA AGORA - R$ 16,90
                                 </CTAButton>
 
                                 {/* Garantias */}

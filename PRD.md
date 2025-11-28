@@ -30,7 +30,7 @@
 **Natal Lucrativo 2025**
 
 ### 1.2 Categoria
-Infoproduto digital - Low ticket (R$ 21,90)
+Infoproduto digital - Low ticket (R$ 16,90)
 
 ### 1.3 Nicho
 Culinária empreendedora / Renda extra / Confeitaria caseira
@@ -51,7 +51,7 @@ Natal Lucrativo 2025 é um produto digital low ticket focado em ensinar donas de
 2. **Lucro comprovado:** ROI rápido (recupera investimento vendendo 1 chocotone)
 3. **Tudo incluído:** Não precisa comprar nada além do produto
 4. **Suporte comunitário:** Grupo VIP no WhatsApp
-5. **Preço acessível:** R$ 21,90 (menos que 1 chocotone vendido)
+5. **Preço acessível:** R$ 16,90 (menos que 1 chocotone vendido)
 
 ---
 
@@ -64,7 +64,7 @@ Validar demanda por um produto de renda extra sazonal (Natal) através de vendas
 
 1. **Vendas:** 50-100 unidades para validação inicial
 2. **Conversão:** Taxa de conversão de 3-5% dos disparos
-3. **Ticket médio:** R$ 21,90 (fixo)
+3. **Ticket médio:** R$ 16,90 (fixo)
 4. **Faturamento inicial:** R$ 1.095 - R$ 2.190
 5. **Prova social:** Coletar 10+ depoimentos de resultados
 
@@ -156,7 +156,7 @@ Validar demanda por um produto de renda extra sazonal (Natal) através de vendas
   - Vendendo 30 unidades: R$ 690-1.140 de lucro
 
 - **ROI do Produto:**
-  - Investimento: R$ 21,90
+  - Investimento: R$ 16,90
   - Retorno vendendo 1 chocotone: R$ 35
   - ROI: 160% em 1 venda
 
@@ -226,7 +226,7 @@ Especificações:
 ## 6. Estrutura de Bônus
 
 ### 6.1 Estratégia dos Bônus
-Aumentar valor percebido de R$ 21,90 para R$ 200+ através de 5 bônus práticos + 1 secreto.
+Aumentar valor percebido de R$ 16,90 para R$ 200+ através de 5 bônus práticos + 1 secreto.
 
 ### 6.2 Lista de Bônus
 
@@ -366,7 +366,7 @@ Aumentar valor percebido de R$ 21,90 para R$ 200+ através de 5 bônus práticos
 | Bônus #5 - Precificação | R$ 17,00 |
 | Bônus #6 - Grupo VIP | Inestimável |
 | **VALOR TOTAL** | **R$ 252,00** |
-| **VOCÊ PAGA HOJE** | **R$ 21,90** |
+| **VOCÊ PAGA HOJE** | **R$ 16,90** |
 | **DESCONTO** | **91% OFF** |
 
 ---
@@ -376,7 +376,7 @@ Aumentar valor percebido de R$ 21,90 para R$ 200+ através de 5 bônus práticos
 ### 7.1 Estratégia de Preço
 
 **Preço Normal:** R$ 97,00  
-**Preço Promocional:** ~~R$ 222,00~~ → **R$ 21,90**
+**Preço Promocional:** ~~R$ 222,00~~ → **R$ 16,90**
 
 **Justificativa do preço baixo:**
 1. Fase de validação (não é o preço final)
@@ -386,10 +386,10 @@ Aumentar valor percebido de R$ 21,90 para R$ 200+ através de 5 bônus práticos
 
 ### 7.2 Opções de Pagamento
 
-**PIX:** R$ 21,90 (pagamento único)
+**PIX:** R$ 16,90 (pagamento único)
 
 **Cartão de Crédito:**
-- À vista: R$ 21,90
+- À vista: R$ 16,90
 - Parcelado: 3x de R$ 7,97 (sem juros)
 
 ### 7.3 Garantia
@@ -437,7 +437,7 @@ chocotones neste Natal?
 Criei um método simples para donas de casa 
 como a gente fazer e vender chocotones incríveis 🎄
 
-Quer dar uma olhada? É só R$ 21,90 e você 
+Quer dar uma olhada? É só R$ 16,90 e você 
 recupera vendendo 1 chocotone só!
 
 [LINK DA LANDING PAGE]
@@ -658,7 +658,7 @@ Vamos alcançar seus objetivos juntas! 🚀
 |---------|------|---------|
 | **Vendas Totais** | 50-100 | 30 |
 | **Taxa de Conversão** | 3-5% | 2% |
-| **Ticket Médio** | R$ 21,90 | R$ 21,90 |
+| **Ticket Médio** | R$ 16,90 | R$ 16,90 |
 | **Faturamento** | R$ 1.095-2.190 | R$ 657 |
 | **Taxa de Reembolso** | <10% | <20% |
 | **NPS** | >50 | >30 |
